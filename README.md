@@ -9,3 +9,7 @@ I used https://github.com/junegunn/vim-plug to manange plugins such as install, 
 #### Please copy file or fork to you own respo. Do not commit or try to edit file on this respo 
 
 Ps. This repo is up to date and ready to use, I will keep update config and setting. 
+
+## TODO
+
+check it
